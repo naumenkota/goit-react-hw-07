@@ -14,3 +14,9 @@
     flex-wrap: wrap;
     gap: 5px;
 }
+
+.notification{
+    color: #2c2c63;
+    font-weight: bold;
+    margin-left: 10px;
+}
